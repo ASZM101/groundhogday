@@ -31,7 +31,6 @@
     {"id":{"name":"oUI","path":"objects/oUI/oUI.yy",},},
     {"id":{"name":"Loop1","path":"rooms/Loop1/Loop1.yy",},},
     {"id":{"name":"Success","path":"rooms/Success/Success.yy",},},
-    {"id":{"name":"RoomUI","path":"roomui/RoomUI/RoomUI.yy",},},
     {"id":{"name":"sGroundhog","path":"sprites/sGroundhog/sGroundhog.yy",},},
     {"id":{"name":"sPhil","path":"sprites/sPhil/sPhil.yy",},},
     {"id":{"name":"sSnow","path":"sprites/sSnow/sSnow.yy",},},

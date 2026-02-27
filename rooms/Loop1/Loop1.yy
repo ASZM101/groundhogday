@@ -141,7 +141,6 @@
     {"name":"inst_1534458C","path":"rooms/Loop1/Loop1.yy",},
     {"name":"inst_5C81F895","path":"rooms/Loop1/Loop1.yy",},
     {"name":"inst_5A3DCE8B","path":"rooms/Loop1/Loop1.yy",},
-    {"name":"inst_1F3A2C05","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[
