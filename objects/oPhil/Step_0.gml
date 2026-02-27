@@ -30,3 +30,7 @@ if (keyboard_check(ord("S"))) {
 }
 
 move_and_collide(x_speed, y_speed, oSolid)
+
+if (192 < x && x < 240 && 64 < y && y < 96) { // check if phil has reached end of loop
+    room_goto(Success); 
+}
