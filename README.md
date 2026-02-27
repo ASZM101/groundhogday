@@ -1,9 +1,5 @@
 # Groundhog Day: The Game
 
-Help Phil save all the groundhogs to escape the loop!
+**Goal:** Help Phil save all the groundhogs and escape the loop! 
 
-# Art Credits
-
-- [Phil sprite](https://shubibubi.itch.io/cozy-people)
-
-- [Winter environment](https://shubibubi.itch.io/cozy-farm)
+**How to Play:** Use the WASD keys to move Phil around the maze.
