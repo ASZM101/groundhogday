@@ -4,4 +4,4 @@
 
 **How to Play:** Use the WASD keys to move Phil around the maze.
 
-Check out the [game](aszm101.itch.io/groundhogday)!
+Check out the [game](https://aszm101.itch.io/groundhogday)!
